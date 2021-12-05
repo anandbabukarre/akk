@@ -1,0 +1,46 @@
+[
+	{
+			"id": "1",
+			"songname": "01. అగ్ని మండించు నాలో",
+			"lyricsurl": "file:///android_asset/A/agni-mandinchu.html",
+			"mp3url": "https://www.uecf.net/songs/yesanna/parakrama/5.mp3",
+			"youtubeurl": "F94SUusEO9o"
+
+		},
+
+		{
+			"id": "2",
+			"songname": "02. అడగక మునుపే నా అక్కరలన్నియు",
+			"lyricsurl": "file:///android_asset/A/Adagaka_munde_na_akkaralanniyu.html",
+			"mp3url": "https://mp3.fastupload.co/files/1617781383",
+			"youtubeurl": "dKaRcgMrKLs"
+
+		},
+
+		{
+			"id": "3",
+			"songname": "03. అత్యున్నత సింహాసనముపై",
+			"lyricsurl": "file:///android_asset/A/Athyunnatha_Simhaasanamupai_Yesanna.html",
+			"mp3url": "http://uecf.net/songs/albums/DayaaKireetam/1.mp3",
+			"youtubeurl": "WcXbnU3r_bY"
+
+		},
+
+		{
+			"id": "4",
+			"songname": "04. అదిగదిగో పరలోకము నుండి దిగివచ్చే",
+			"lyricsurl": "file:///android_asset/A/Adi_Adigo_paralokamunundi.html",
+			"mp3url": "https://christiansongs.infinityfreeapp.com/hosannamp3/adigadigo.mp3",
+			"youtubeurl": "-tQcb7cKRpg"
+
+		},
+
+		{
+			"id": "5",
+			"songname": "05. అనాదిలో నియమించబడిన గొర్రెపిల్ల",
+			"lyricsurl": "file:///android_asset/A/Anadilo_neyamimpa.html",
+			"mp3url": "https://www.uecf.net/songs/albums/NaaSthuthiPaathrudu/3.mp3",
+			"youtubeurl": "3QNqiuigB_8"
+
+		}
+]
